@@ -1,0 +1,16 @@
+configuration_id,edge_index_valid,node_features_finite,edge_features_finite,global_features_finite,positions_finite,has_edges,node_count_consistent,graph_valid
+Pristine,tensor(True),True,True,True,True,True,True,True
+V_Ga,tensor(True),True,True,True,True,True,True,True
+V_N,tensor(True),True,True,True,True,True,True,True
+Ga_N,tensor(True),True,True,True,True,True,True,True
+N_Ga,tensor(True),True,True,True,True,True,True,True
+Mg_Ga,tensor(True),True,True,True,True,True,True,True
+Si_Ga,tensor(True),True,True,True,True,True,True,True
+O_N,tensor(True),True,True,True,True,True,True,True
+C_N,tensor(True),True,True,True,True,True,True,True
+Ga_i_Geo_I_1,tensor(True),True,True,True,True,True,True,True
+N_i_Geo_I_1,tensor(True),True,True,True,True,True,True,True
+Ga_i_Geo_I_2,tensor(True),True,True,True,True,True,True,True
+N_i_Geo_I_2,tensor(True),True,True,True,True,True,True,True
+Ga_i_Geo_I_3,tensor(True),True,True,True,True,True,True,True
+N_i_Geo_I_3,tensor(True),True,True,True,True,True,True,True

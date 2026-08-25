@@ -1,0 +1,14 @@
+{
+    "number_of_structures": 15,
+    "compact_feature_count": 28,
+    "graph_count": 15,
+    "node_feature_dimension": 16,
+    "edge_feature_dimension": 17,
+    "global_feature_dimension": 28,
+    "active_target": null,
+    "active_problem_type": null,
+    "ready_target_count": 0,
+    "classical_training_executed": false,
+    "gnn_training_executed": false,
+    "training_status": "Awaiting validated target labels"
+}

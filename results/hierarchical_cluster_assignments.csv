@@ -1,0 +1,16 @@
+configuration_id,cluster_k3,cluster_k4,cluster_k5
+C_N,2,3,4
+Ga_N,2,3,4
+Ga_i_Geo_I_1,1,1,1
+Ga_i_Geo_I_2,1,1,1
+Ga_i_Geo_I_3,1,1,1
+Mg_Ga,3,4,5
+N_Ga,2,3,3
+N_i_Geo_I_1,1,1,1
+N_i_Geo_I_2,1,1,1
+N_i_Geo_I_3,1,1,1
+O_N,2,3,4
+Pristine,1,2,2
+Si_Ga,2,3,3
+V_Ga,2,3,3
+V_N,2,3,4

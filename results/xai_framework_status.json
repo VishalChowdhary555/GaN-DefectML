@@ -1,0 +1,13 @@
+{
+    "tabular_model_available": false,
+    "permutation_importance_executed": false,
+    "shap_available": true,
+    "shap_executed": false,
+    "descriptor_ablation_executed": false,
+    "diagnostic_graph_xai_executed": true,
+    "diagnostic_configuration": "Ga_i_Geo_I_1",
+    "diagnostic_defect_atom_index": 72,
+    "diagnostic_defect_element": "Ga",
+    "graph_xai_interpretation_status": "Diagnostic only \u2014 GNN is untrained",
+    "scientific_xai_status": "Awaiting validated labels and trained models"
+}
