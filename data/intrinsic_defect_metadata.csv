@@ -1,0 +1,5 @@
+defect_id,host_material_id,host_phase,defect_family,defect_species,host_species,site_index_pristine,site_fractional_x,site_fractional_y,site_fractional_z,composition_change,number_of_sites,number_of_Ga,number_of_N,defect_fraction_all_sites_percent,defect_fraction_host_sublattice_percent,supercell_volume_A3
+V_Ga,mp-804,Wurtzite,Vacancy,Vacancy,Ga,26,0.44444433333333333,0.5555556666666667,0.4995418549999999,Remove one Ga atom,71,35,36,1.3888888888888888,2.7777777777777777,823.1098246071014
+V_N,mp-804,Wurtzite,Vacancy,Vacancy,N,44,0.5555556666666667,0.44444433333333333,0.43795814499999997,Remove one N atom,71,36,35,1.3888888888888888,2.7777777777777777,823.1098246071014
+Ga_N,mp-804,Wurtzite,Antisite,Ga,N,44,0.5555556666666667,0.44444433333333333,0.43795814499999997,Replace one N atom with Ga,72,37,35,1.3888888888888888,2.7777777777777777,823.1098246071014
+N_Ga,mp-804,Wurtzite,Antisite,N,Ga,26,0.44444433333333333,0.5555556666666667,0.4995418549999999,Replace one Ga atom with N,72,35,37,1.3888888888888888,2.7777777777777777,823.1098246071014

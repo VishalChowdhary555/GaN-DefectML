@@ -1,0 +1,7 @@
+defect_id,host_material_id,host_phase,defect_family,interstitial_species,geometric_site_id,source_candidate_id,environment_family,site_fractional_x,site_fractional_y,site_fractional_z,minimum_initial_host_distance_A,number_of_sites,number_of_Ga,number_of_N,defect_fraction_all_sites_percent
+Ga_i_Geo_I_1,mp-804,Wurtzite,Interstitial,Ga,Geo_I_1,I_site_1,Environment_1,0.0,0.0,0.1,2.05525880588133,73,37,36,1.3888888888888888
+N_i_Geo_I_1,mp-804,Wurtzite,Interstitial,N,Geo_I_1,I_site_1,Environment_1,0.0,0.0,0.1,2.05525880588133,73,36,37,1.3888888888888888
+Ga_i_Geo_I_2,mp-804,Wurtzite,Interstitial,Ga,Geo_I_2,I_site_5,Environment_2,0.65,0.35000000000000003,0.1,1.9472808961845727,73,37,36,1.3888888888888888
+N_i_Geo_I_2,mp-804,Wurtzite,Interstitial,N,Geo_I_2,I_site_5,Environment_2,0.65,0.35000000000000003,0.1,1.9472808961845727,73,36,37,1.3888888888888888
+Ga_i_Geo_I_3,mp-804,Wurtzite,Interstitial,Ga,Geo_I_3,I_site_9,Environment_3,0.65,0.65,0.35000000000000003,1.9341818072247388,73,37,36,1.3888888888888888
+N_i_Geo_I_3,mp-804,Wurtzite,Interstitial,N,Geo_I_3,I_site_9,Environment_3,0.65,0.65,0.35000000000000003,1.9341818072247388,73,36,37,1.3888888888888888

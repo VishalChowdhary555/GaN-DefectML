@@ -1,0 +1,10 @@
+configuration_id,host_material_id,host_phase,configuration_family,defect_species,host_species,number_of_sites,number_of_Ga,number_of_N,defect_fraction_all_sites_percent,defect_fraction_host_sublattice_percent
+Pristine,mp-804,Wurtzite,Pristine,,,72,36,36,0.0,0.0
+V_Ga,mp-804,Wurtzite,Vacancy,Vacancy,Ga,71,35,36,1.3888888888888888,2.7777777777777777
+V_N,mp-804,Wurtzite,Vacancy,Vacancy,N,71,36,35,1.3888888888888888,2.7777777777777777
+Ga_N,mp-804,Wurtzite,Antisite,Ga,N,72,37,35,1.3888888888888888,2.7777777777777777
+N_Ga,mp-804,Wurtzite,Antisite,N,Ga,72,35,37,1.3888888888888888,2.7777777777777777
+Mg_Ga,mp-804,Wurtzite,Substitutional dopant,Mg,Ga,72,35,36,1.3888888888888888,2.7777777777777777
+Si_Ga,mp-804,Wurtzite,Substitutional dopant,Si,Ga,72,35,36,1.3888888888888888,2.7777777777777777
+O_N,mp-804,Wurtzite,Substitutional dopant,O,N,72,36,35,1.3888888888888888,2.7777777777777777
+C_N,mp-804,Wurtzite,Substitutional dopant,C,N,72,36,35,1.3888888888888888,2.7777777777777777

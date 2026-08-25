@@ -1,0 +1,27 @@
+{
+    "random_seed": 42,
+    "primary_regression_target": "formation_energy_eV",
+    "secondary_regression_targets": [
+        "relaxed_band_gap_eV",
+        "band_gap_change_eV",
+        "transition_level_eV",
+        "carrier_concentration_cm3"
+    ],
+    "classification_targets": [
+        "donor_acceptor_class",
+        "carrier_type"
+    ],
+    "minimum_regression_samples": 30,
+    "minimum_classification_samples": 30,
+    "minimum_samples_per_class": 5,
+    "classical_cv_folds": 5,
+    "gnn_cv_folds": 5,
+    "gnn_batch_size": 8,
+    "gnn_hidden_dim": 64,
+    "gnn_dropout": 0.2,
+    "gnn_learning_rate": 0.001,
+    "gnn_weight_decay": 1e-05,
+    "gnn_max_epochs": 300,
+    "gnn_patience": 30,
+    "primary_graph_cutoff_A": 3.0
+}

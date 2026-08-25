@@ -1,0 +1,9 @@
+{
+    "permutation_repeats": 30,
+    "random_seed": 42,
+    "top_features_to_display": 15,
+    "node_mask_baseline": "zero",
+    "edge_mask_baseline": "zero",
+    "graph_attribute_mask_baseline": "zero",
+    "diagnostic_mode": true
+}
